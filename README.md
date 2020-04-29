@@ -1,1 +1,1 @@
-https://myloginpage/Login&Register/login.html
+https://myloginpage/mylogin.html

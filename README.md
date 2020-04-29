@@ -1,2 +1,1 @@
-https://myloginpage
-Login And Register Page in HTML and CSS.
+https://myloginpage/Login&Register/login.html
